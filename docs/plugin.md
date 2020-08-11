@@ -9,7 +9,7 @@ The `protoc-gen-grpc-swift` plugin can be built by using the Makefile in the
 top-level directory:
 
 ```sh
-$ make plugins
+$ make plugin
 ```
 
 The Swift Package Manager may also be invoked directly to build the plugin:
